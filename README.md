@@ -21,3 +21,13 @@ The implementation includes below steps:
 Tools & Technologies: 
 
 Python, Flask, HTML, AWS, EC2, Ubuntu Server, Linux Commands, Command Line Interface (CLI), Docker, ECR, ECS, Fargate, IAM
+
+Dual Solution Web Application Implementation Outcomes:
+Below is the sample outcome of the dual solution framework embedded into a Flask based Python Web Application for making real-time inferences.
+<br>
+<br>
+<br>
+
+![](images/Dual_Solution_Implementation_In_Web_Application.jpg)
+
+<br>
