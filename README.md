@@ -4,7 +4,7 @@ This project covers the implementation of dockerizing a python flask based credi
 
 Calculated a 3-digit credit score of an individual and the percentage of probability of default of the individual are the outcomes of the 2 ML models deployed.  
 
-The implementation includes below steps:  
+<h3><b><u>The implementation includes below steps:</u></b></h3>  
 
 1. Creation of a Docker File for the Python Flask Based Credit Risk Assessment Web Application with 2 Deep Learning Models 
 2. Created a new EC2 Ubuntu Server Instance in AWS and copied the web application project’s directories and files into the AWS Ubuntu Server using SFTP linux commands. 
@@ -18,11 +18,11 @@ The implementation includes below steps:
 10. Configured the AWS Fargate Cluster to execute the service and the tasks; and deployed the docker based web application into AWS Fargate Cluster. 
 11. Alternately; created and configured the AWS EC2 Instance/Cluster. Created Identity and Access Management (IAM) user with role and policies. Executed the ECS tasks; and deployed the docker based web application into AWS EC2 Instance.  
 
-Tools & Technologies: 
+<h3><b><u>Tools & Technologies:</u></b></h3> 
 
 Python, Flask, HTML, AWS, EC2, Ubuntu Server, Linux Commands, Command Line Interface (CLI), Docker, ECR, ECS, Fargate, IAM
 
-Dual Solution Web Application Implementation Outcomes:
+<h3><b><u>Dual Solution Web Application Implementation Outcomes:</u></b></h3>
 <br>
 <br>
 Below is the sample outcome of the dual solution framework embedded into a Flask based Python Web Application for making real-time inferences.
