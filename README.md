@@ -4,6 +4,9 @@ This project covers the implementation of dockerizing a python flask based credi
 
 Calculated a 3-digit credit score of an individual and the percentage of probability of default of the individual are the outcomes of the 2 ML models deployed.  
 
+<h3><b><u>GitHub Project Link of the Credit Risk Assessment FinTech Dual Framework E2E Machine Learning Project:</u></b></h3>
+<h3><a href="[https://www.kaggle.com/ethon0426/lending-club-20072020q1](https://github.com/Tech-with-Vidhya/credit-risk-assessment-fintech-framework-using-deep-learning-and-transfer-learning" style="color: green"><b><u>Credit Risk Assessment: A FinTech Dual Framework using Deep Learning and Transfer Learning</u></b></a></h3>
+
 <h3><b><u>The implementation includes below steps:</u></b></h3>  
 
 1. Creation of a Docker File for the Python Flask Based Credit Risk Assessment Web Application with 2 Deep Learning Models 
