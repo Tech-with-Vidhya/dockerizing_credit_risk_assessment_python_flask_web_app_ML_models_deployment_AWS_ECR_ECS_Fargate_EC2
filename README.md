@@ -23,8 +23,7 @@ Calculated a 3-digit credit score of an individual and the percentage of probabi
 Python, Flask, HTML, AWS, EC2, Ubuntu Server, Linux Commands, Command Line Interface (CLI), Docker, ECR, ECS, Fargate, IAM
 
 <h3><b><u>Dual Solution Web Application Implementation Outcomes:</u></b></h3>
-<br>
-<br>
+
 Below is the sample outcome of the dual solution framework embedded into a Flask based Python Web Application for making real-time inferences.
 <br>
 <br>
