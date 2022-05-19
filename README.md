@@ -23,6 +23,8 @@ Tools & Technologies:
 Python, Flask, HTML, AWS, EC2, Ubuntu Server, Linux Commands, Command Line Interface (CLI), Docker, ECR, ECS, Fargate, IAM
 
 Dual Solution Web Application Implementation Outcomes:
+<br>
+<br>
 Below is the sample outcome of the dual solution framework embedded into a Flask based Python Web Application for making real-time inferences.
 <br>
 <br>
