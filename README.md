@@ -26,8 +26,7 @@ Python, Flask, HTML, AWS, EC2, Ubuntu Server, Linux Commands, Command Line Inter
 
 Below is the sample outcome of the dual solution framework embedded into a Flask based Python Web Application for making real-time inferences.
 <br>
-<br>
-<br>
+
 
 ![](images/Dual_Solution_Implementation_In_Web_Application.jpg)
 
